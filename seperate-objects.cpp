@@ -39,4 +39,4 @@ int main()
   cin>>employee.companyaddress;
   employee.emp();
   employee.cmp();
-}
+} 
