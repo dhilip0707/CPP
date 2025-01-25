@@ -74,4 +74,4 @@ int main()
   {
    cout<<"The person is child labour";
   } 
-}
+} 
