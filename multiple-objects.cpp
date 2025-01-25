@@ -48,10 +48,7 @@ int main()
  student1.display();
  student2.display();
  student3.display();
- 
- /*cout<<student1.name<<"\n";
- cout<<student2.name<<"\n";
- cout<<student3.name<<"\n";*/
+
  
 }
 
